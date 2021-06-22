@@ -4,7 +4,7 @@ const goalsManager = new GoalsManager();
 
 
 describe('GoalManager add method', () => {
-  /* Create a goal */
+  /* Create  goal */
 
   test('Create a new goal', () => {
     goalsManager.addGoal('a week goal', 'week');
