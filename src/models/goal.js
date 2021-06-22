@@ -8,3 +8,5 @@ class Goal {
 }
 
 export default Goal;
+
+  /* Create goal class */
