@@ -51,3 +51,6 @@ class GoalsManager {
 }
 
 export default GoalsManager;
+
+
+  /* Create goal manager class */
