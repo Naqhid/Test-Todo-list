@@ -1,6 +1,6 @@
 # Todo-List
 
-> In this project we build a Goal Manager application in wich users can add goals and interact with them 
+> In this project we build a Goal Manager application in which users can add goals and interact with them 
 
 ## Built With
 
