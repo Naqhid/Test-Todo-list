@@ -46,11 +46,10 @@ class GoalsManager {
   }
 
   getByCategory(category) {
-    return this.goals.filter(element => element.category === category);
+    return this.goals.filter((element) => element.category === category);
   }
 }
 
 export default GoalsManager;
 
-
-  /* Create goal manager class */
+/* Create goal manager class */

@@ -5,7 +5,6 @@ export default (() => {
   const modal = document.getElementById('modal');
   const warningModal = document.getElementById('warning-modal');
 
-
   openModal.addEventListener('click', () => {
     modal.classList.remove('hidden');
   });
